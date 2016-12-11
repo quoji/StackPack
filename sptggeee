@@ -1,0 +1,191 @@
+[33mcommit 731aaf757d87165c9eef4ea26a5b2a80b01f9382[m
+Author: John Brownlee <sbrownlee90@gmail.com>
+Date:   Fri Dec 9 14:35:26 2016 -0600
+
+    adding_content
+
+[33mcommit 96e2ce292ac24a3ec2032a60b6980b209eac40dd[m
+Author: Eric Chung <eric.chung2718@gmail.com>
+Date:   Fri Dec 9 03:51:02 2016 -0600
+
+    Fixed plot for top Q-post; added top Q-post plot for T/F ratios
+
+[33mcommit cd0073dfc8459896486a20bf527e06ff225aae7c[m
+Merge: d31e321 ff3ae4e
+Author: kpreston1 <kyle.h.preston75>
+Date:   Fri Dec 9 00:28:46 2016 -0600
+
+    Merge branch 'master' of https://github.tamu.edu/eric-chung/datsci_project
+
+[33mcommit d31e321ab7629dc95ce1b2d71ddb7213550e1a12[m
+Author: kpreston1 <kyle.h.preston75>
+Date:   Fri Dec 9 00:28:42 2016 -0600
+
+    make some graphs
+
+[33mcommit ff3ae4e5d06cdfe2226e9d38c5a30710a106af9e[m
+Merge: f9595d1 45e082e
+Author: John Brownlee <sbrownlee90@gmail.com>
+Date:   Thu Dec 8 19:39:30 2016 -0600
+
+    Merge branch 'master' of https://github.tamu.edu/eric-chung/datsci_project
+
+[33mcommit f9595d15808e5a408a864f02b2d63cf3910ac192[m
+Author: John Brownlee <sbrownlee90@gmail.com>
+Date:   Thu Dec 8 19:39:14 2016 -0600
+
+    kfolds_and_feature_importance
+
+[33mcommit 45e082e4a17aa6cac6da14a4fb770a61c8f86deb[m
+Author: kpreston1 <kyle.h.preston75>
+Date:   Thu Dec 8 17:10:42 2016 -0600
+
+    added top 20 questions, and response times for each answer in the top 20 questions
+
+[33mcommit 03f0382427c22c83dc411cb0658b4e31f7f4ce91[m
+Author: eric-chung <eric.chung@tamu.edu>
+Date:   Thu Dec 8 00:03:27 2016 -0600
+
+    Rename SO_data_kp.ipynb to so_data_kp.ipynb
+    
+    OCD w/ naming (sorry).
+
+[33mcommit 2c8b790bffa67c3cbf54c20ab480d51a872724f7[m
+Merge: 05b9925 3317561
+Author: Eric Chung <eric.chung2718@gmail.com>
+Date:   Thu Dec 8 00:01:06 2016 -0600
+
+    File cleaning. Adding back old docs (JIC) w/ Windows compatability.
+
+[33mcommit 33175617dfbb14be3d1d9a6fae03a6e60e1316c2[m
+Author: John Brownlee <sbrownlee90@gmail.com>
+Date:   Wed Dec 7 23:47:10 2016 -0600
+
+    fixed_windows_incompatibility_deleted_aux_old
+
+[33mcommit 05b9925b7fba0616503d5ffe3c968e66e7febd5a[m
+Author: Eric Chung <eric.chung2718@gmail.com>
+Date:   Wed Dec 7 02:56:35 2016 -0600
+
+    Adding in backup of project state.
+
+[33mcommit e7c8aa7b6b82c917e883243631257b3fdd571f51[m
+Author: kpreston1 <kyle.h.preston75>
+Date:   Wed Dec 7 02:49:42 2016 -0600
+
+    added yearly scores and yearly post in a new data set users_scores
+
+[33mcommit 839079b433556a6f78e8485411c13f1968d52c92[m
+Author: Eric Chung <eric.chung2718@gmail.com>
+Date:   Tue Dec 6 15:09:10 2016 -0600
+
+    Added eval for IsAcceptedAnswer true/false for top 20 SO posters.
+
+[33mcommit 12ce7fd65f15b261cbfd555e019a11e7c3180f0a[m
+Author: Eric Chung <eric.chung2718@gmail.com>
+Date:   Mon Dec 5 04:07:29 2016 -0600
+
+    Added IsAcceptedAnswer diction analysis + IdUser analysis.
+
+[33mcommit 73c2ec21968bdab9458e92b15572492e2a06d35f[m
+Author: Eric Chung <eric.chung2718@gmail.com>
+Date:   Sun Dec 4 18:04:37 2016 -0600
+
+    Fixed inconsistencies b/w notebooks.
+
+[33mcommit 81dc6bfde860c2621c5971643a7246d00f0c67ef[m
+Author: John Brownlee <sbrownlee90@gmail.com>
+Date:   Wed Nov 30 09:57:45 2016 -0600
+
+    replaced_wrong_file
+
+[33mcommit 27ebdef1586e5296ca5b27bcd743aeae4e5bfc35[m
+Author: Eric Chung <eric.chung2718@gmail.com>
+Date:   Wed Nov 30 00:18:03 2016 -0600
+
+    Reorganizing directory structure. Individual *.ipynb created for all teammates.
+
+[33mcommit c4bf744d3971b0543b9609e97e7010b8cd5ba7c2[m
+Author: Eric Chung <eric.chung2718@gmail.com>
+Date:   Tue Nov 29 21:48:05 2016 -0600
+
+    Adding a commented version of main *.ipynb notebook.
+
+[33mcommit 7bfbde0f74b90068279953f961eadbb05bb2e5b0[m
+Author: John Brownlee <sbrownlee90@gmail.com>
+Date:   Tue Nov 29 21:10:11 2016 -0600
+
+    added_personal_copy
+
+[33mcommit 1b286ea16fc1a9a4f84426e4b75fa43b9ec4e153[m
+Author: John Brownlee <sbrownlee90@gmail.com>
+Date:   Tue Nov 29 20:58:30 2016 -0600
+
+    more_count_vector
+
+[33mcommit 5b555ff908f616e87df9b5f4c37336ad677af957[m
+Author: John Brownlee <sbrownlee90@gmail.com>
+Date:   Sun Nov 27 23:14:24 2016 -0600
+
+    countVectorizer
+
+[33mcommit 25d3f6a737725b175d19ccf5d8600e1d8b057b27[m
+Author: kpreston1 <kyle.h.preston75>
+Date:   Wed Nov 16 16:48:21 2016 -0600
+
+    adding notebook
+
+[33mcommit 03f1577187298cef540af2a8b5b9fd9087af4dc7[m
+Author: John Brownlee <sbrownlee90@gmail.com>
+Date:   Tue Nov 1 18:56:46 2016 -0500
+
+    ignore_csv
+
+[33mcommit 505a568bf52b6008e98187961f6a0ad57291accb[m
+Author: John Brownlee <sbrownlee90@gmail.com>
+Date:   Tue Nov 1 18:48:37 2016 -0500
+
+    ignore_zips
+
+[33mcommit 4fcbe2f18a1668e551ce92f62326be0706623909[m
+Author: Eric Chung <eric.chung2718@gmail.com>
+Date:   Tue Nov 1 18:40:52 2016 -0500
+
+    Just touching up the README.md from last commit (again).
+
+[33mcommit d28115914a5d0a974fea4567fb3597c5273fe253[m
+Author: Eric Chung <eric.chung2718@gmail.com>
+Date:   Tue Nov 1 18:39:39 2016 -0500
+
+    Just touching up the README.md from last commit.
+
+[33mcommit caccdaa672e7a98c4887ed9bb7ed5da88dd7d7d6[m
+Author: Eric Chung <eric.chung2718@gmail.com>
+Date:   Tue Nov 1 18:37:48 2016 -0500
+
+    Updated README.md w/ raw_data descriptions.
+
+[33mcommit d8f4950421cbf9165fd02a86faaa1e89fab01935[m
+Merge: 2b8cd9b 69af637
+Author: John Brownlee <sbrownlee90@gmail.com>
+Date:   Tue Nov 1 16:35:53 2016 -0500
+
+    first
+
+[33mcommit 2b8cd9b15c3a79e9afaaadea116fdb2bf71f44e5[m
+Author: John Brownlee <sbrownlee90@gmail.com>
+Date:   Tue Nov 1 16:35:09 2016 -0500
+
+    test
+
+[33mcommit 69af6377773f0981914ac59efd08492cb8c5b409[m
+Author: eric-chung <eric.chung@tamu.edu>
+Date:   Tue Nov 1 16:33:56 2016 -0500
+
+    Update README.md
+
+[33mcommit 5833c6c0bf4445756bed2583fcdfcd15709901fc[m
+Author: Eric Chung <eric.chung2718@gmail.com>
+Date:   Tue Nov 1 16:32:27 2016 -0500
+
+    Adding README and .gitignore.
